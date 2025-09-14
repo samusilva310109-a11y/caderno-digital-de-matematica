@@ -27,3 +27,39 @@ h1{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif    
 }
+.materias{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 25vh;
+    gap: 20px;
+}
+.matematica_basica{
+    background-color: rgb(255, 77, 77);
+    padding: 20px;
+    border-radius: 10px;
+    width: 33.33vw;
+    height: 33.33vh;
+}
+.algebra{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 10px;
+    width: 33.33vw;
+    height: 33.33vh;
+}
+.geometria{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 10px;
+    width: 33.33vw;
+    height: 33.33vh;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 10px;
+}
